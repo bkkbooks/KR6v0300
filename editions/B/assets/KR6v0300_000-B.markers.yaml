@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR6v0300/B/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6v0300_B_000-0001a, ed: B, 'n': 0001a, source_xml_id: B01.0001.0001a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0300_B_000-0001a01, ed: B, 'n': 0001a01}
+  - {type: line-break, offset: 0, content: '', id: KR6v0300_B_000-0001a02, ed: B, 'n': 0001a02}
+  - {type: 其他, offset: 0, content: 解題, id: KR6v0300_B_000-mulu-1, level: '1'}
+  body: []
+  back: []
+hash: sha256:70d6a12bf5d1f583a04069889cd531193a8b48f1ed8074ccffbd9df7dae7c4fc

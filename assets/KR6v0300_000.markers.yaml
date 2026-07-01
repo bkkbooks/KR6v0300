@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0300/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 其他, offset: 0, content: 解題, id: KR6v0300_B_000-mulu-1, level: '1'}
+  body: []
+  back: []
+hash: sha256:153d5ac606e6b24808abf9c7d90fd976da63a912882865cf657a4e4afbfb5b16

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0300/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 均如大師華嚴學全書
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B01/B01n0001.xml
+    old_id: B01n0001
+hash: sha256:67117fc4ef2d7d548e2677e8d241080627922adba0dac1020668eaea74958db4
